@@ -1,0 +1,7 @@
+facebook.com, 363882734914253, DIRECT, c3e20eee3f780d68
+
+mopub.com, 0fc4d9a85e7e4ed2a40b466f81500b25, DIRECT, 74b46c0ea83967ca
+
+mopub.com, 814bb713fc5b4e609f8ec6044a80ea89, DIRECT, 74b46c0ea83967ca
+
+google.com, pub-2996862477200912, DIRECT, f08c47fec0942fa0
